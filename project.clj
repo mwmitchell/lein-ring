@@ -1,4 +1,4 @@
-(defproject codesignals/lein-ring "0.9.2-mm"
+(defproject com.codesignals/lein-ring "0.9.2-mm"
   :description "Leiningen Ring plugin"
   :url "https://github.com/weavejester/lein-ring"
   :license {:name "Eclipse Public License"
